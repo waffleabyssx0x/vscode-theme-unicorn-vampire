@@ -1,0 +1,46 @@
+{
+  "name": "vscode-theme-unicorn-vampire",
+  "displayName": "Unicorn Vampire",
+  "description": "When vampires met a poor unicorn",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waffleabyssx0x/vscode-theme-unicorn-vampire.git"
+  },
+  "bugs": {
+    "url": "https://github.com/waffleabyssx0x/vscode-theme-unicorn-vampire/issues",
+    "email": "-@-.com"
+  },
+  "keywords": [
+    "dark",
+    "cute",
+    "vampire",
+    "unicorn",
+    "girly"
+  ],
+  "author": {
+    "name": "waffleabyssx0x"
+  },
+  "homepage": "https://github.com/waffleabyssx0x/vscode-theme-unicorn-vampire/blob/master/README.md",
+  "license": "MIT",
+  "publisher": "",
+  "galleryBanner": {
+    "color": "#1e1e1e",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Unicorn Vampire",
+        "uiTheme": "vs-dark",
+        "path": "./theme.json"
+      }
+    ]
+  }
+}
