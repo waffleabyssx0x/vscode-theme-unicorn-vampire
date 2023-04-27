@@ -1,8 +1,9 @@
 {
   "name": "vscode-theme-unicorn-vampire",
   "displayName": "Unicorn Vampire",
-  "description": "When vampires met a poor unicorn",
-  "version": "1.0.0",
+  "description": "Cute little theme of a unicorn vampire!",
+  "icon": "img/128x128.png",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/waffleabyssx0x/vscode-theme-unicorn-vampire.git"
@@ -23,13 +24,13 @@
   },
   "homepage": "https://github.com/waffleabyssx0x/vscode-theme-unicorn-vampire/blob/master/README.md",
   "license": "MIT",
-  "publisher": "",
+  "publisher": "wafflefactory2398",
   "galleryBanner": {
     "color": "#1e1e1e",
     "theme": "dark"
   },
   "engines": {
-    "vscode": "^1.22.0"
+    "vscode": "^1.12.0"
   },
   "categories": [
     "Themes"

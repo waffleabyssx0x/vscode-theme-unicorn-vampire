@@ -49,7 +49,10 @@
     "titleBar.activeBackground": "#2E2D38",
     "titleBar.activeForeground": "#ccccccef",
     "titleBar.inactiveBackground": "#2E2D38",
-    "titleBar.inactiveForeground": "#ccccccaa"
+    "titleBar.inactiveForeground": "#ccccccaa",
+    "diffEditor.removedLineBackground": "#580c25",
+    "diffEditor.insertedLineBackground": "#0a331e",
+    "diffEditor.insertedTextBackground": "#0e4a12"
   },
   "tokenColors": [
     {
