@@ -11,7 +11,7 @@
   <img alt="Visual Studio Marketplace Rating" src="https://img.shields.io/visual-studio-marketplace/r/wafflefactory2398.vscode-theme-unicorn-vampire?color=ECD3ED&style=flat-square">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=wafflefactory2398.vscode-theme-unicorn-vampire" target="_blank">
-  <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/d/wafflefactory2398.vscode-theme-unicorn-vampire?color=ECD3ED">
+  <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/d/wafflefactory2398.vscode-theme-unicorn-vampire?color=ECD3ED&style=flat-square">
   </a>
   </p>
 
