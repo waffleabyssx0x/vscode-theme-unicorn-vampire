@@ -3,7 +3,7 @@
   "displayName": "Unicorn Vampire",
   "description": "Cute little theme of a unicorn vampire!",
   "icon": "img/128x128.png",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/waffleabyssx0x/vscode-theme-unicorn-vampire.git"
