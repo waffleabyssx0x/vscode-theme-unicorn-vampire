@@ -41,6 +41,11 @@
         "label": "Unicorn Vampire",
         "uiTheme": "vs-dark",
         "path": "./theme.json"
+      },
+      {
+        "label": "Unicorn Vampire Mojave",
+        "uiTheme": "vs-dark",
+        "path": "./theme-mojave.json"
       }
     ]
   }
